@@ -5,6 +5,8 @@ to show the times at which it will run. It considers only the standard cron form
 
 # Set up and Execution
 
+- clone the repository ``git clone https://github.com/Lakshya44/Cron-Expression-Parser.git``
+
 - cd into src ``cd src``
 
 - Compile the java files ``javac Internal/*.java CronFields/*.java -d .``
